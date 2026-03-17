@@ -98,6 +98,3 @@ This project is open source and available under the [MIT License](LICENSE).
 Visit the live demo: [InstaMetrics Dashboard](https://your-demo-url.com)
 
 ---
-
-Built with ❤️ for Instagram creators</content>
-<filePath">c:\Users\Mohd Kaif\OneDrive\Desktop\dashboard\README.md
